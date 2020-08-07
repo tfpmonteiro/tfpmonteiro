@@ -1,16 +1,19 @@
-### Hi there 👋
+# Oi 👋, eu sou a Talita Monteiro (she/ela)
+### Programmer
 
-<!--
-**tfpmonteiro/tfpmonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```rust
+fn main() {
+```
 
-Here are some ideas to get you started:
+- 👨‍💻 Atualmente trabalho como Analista de engenharia de TI, minha stack preferida é C#.
+- 🦀 Já fiz hello world em Angular, AngularJS, Typescript e Java. Agora estou apredendendo React. 
+- ⚙️ Apesar de me sentir mais confortável no backend, estou focando o aprendizado em frontend e DEVOPS.
+- 🐦 Me segue no [twitter.com/tythamonteiro](https://twitter.com/tythamonteiro)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+<a href="https://twitter.com/tythamonteiro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rochacbruno" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/tfpmonteiro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rochacbruno" height="20" width="20" /></a>
+<a href="https://instagram.com/taliii.ta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="codeshowbr" height="20" width="20" /></a>
+</p>
