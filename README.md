@@ -1,5 +1,5 @@
-# Oi 👋, eu sou a Talita Monteiro (she/ela)
-### Programmer
+# Oi 👋, me chamo Talita Monteiro (she/ela)
+### nerd
 
 ```rust
 fn main() {
