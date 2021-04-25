@@ -5,7 +5,8 @@
 fn main() {
 ```
 
-- 👨‍💻 Atualmente trabalho como Analista de engenharia de TI, minha stack preferida é C#.
+- 👩💻 Atualmente trabalho como Analista de engenharia de TI.
+- 🚀 Me viro com as stacks: C#, React(❤️) e javascript.
 - 🦀 Já fiz hello world em Angular, AngularJS, Typescript e Java. Agora estou apredendendo React. 
 - ⚙️ Apesar de me sentir mais confortável no backend, estou focando o aprendizado em frontend e DEVOPS.
 - 🐦 Me segue no [twitter.com/tythamonteiro](https://twitter.com/tythamonteiro)
