@@ -5,10 +5,10 @@
 fn main() {
 ```
 
-- 👩💻 Atualmente trabalho como Analista de engenharia de TI.
-- 🚀 Me viro com C#, React(❤️) e javascript.
-- 🦀 Já fiz hello world em Angular, AngularJS, Typescript e Java.
-- ⚙️ Apesar de me sentir mais confortável no backend, estou focando o aprendizado em frontend e DEVOPS.
+- 👩💻 Analista de engenharia de TI.
+- 🚀 Me viro com Java, C#, React(❤️), Angular e javascript.
+- 🦀 Já fiz hello world em Angular, AngularJS, Typescript, Elixir.
+- ⚙️ Aprendendo AWS e padrões de arquitetura.
 - 🐦 Me segue no [twitter.com/tythamonteiro](https://twitter.com/tythamonteiro)
 
 ---
