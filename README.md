@@ -7,7 +7,7 @@ fn main() {
 
 - 👩💻 Analista de engenharia de TI.
 - 🚀 Me viro com Java.
-- 🦀 Já fiz hello world em Angular, AngularJS, Typescript, Elixir.
+- 🦀 Já fiz hello world em Angular, AngularJS, Typescript, Elixir e C#.
 - ⚙️ Aprendendo AWS e padrões de arquitetura.
 - 🐦 Me segue no [twitter.com/tythamonteiro](https://twitter.com/tythamonteiro)
 
