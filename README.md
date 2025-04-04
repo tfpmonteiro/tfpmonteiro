@@ -1,12 +1,12 @@
 # Oi 👋, me chamo Talita Monteiro (she/ela)
-### nerd
+
 
 ```rust
 fn main() {
 ```
 
 - 👩💻 Analista de engenharia de TI.
-- 🚀 Me viro com Java, C#, React(❤️), Angular e javascript.
+- 🚀 Me viro com Java.
 - 🦀 Já fiz hello world em Angular, AngularJS, Typescript, Elixir.
 - ⚙️ Aprendendo AWS e padrões de arquitetura.
 - 🐦 Me segue no [twitter.com/tythamonteiro](https://twitter.com/tythamonteiro)
